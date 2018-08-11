@@ -13,7 +13,9 @@
   <properties>
 		<springframework.version>5.0.7.RELEASE</springframework.version>
 		<springsecurity.version>5.0.6.RELEASE</springsecurity.version>
-	</properties>
+		<maven.compiler.source>9</maven.compiler.source>
+    	<maven.compiler.target>9</maven.compiler.target>
+</properties>
 	
  <dependencies>
 
